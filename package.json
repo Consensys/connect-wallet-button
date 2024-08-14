@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Consensys/connect-wallet-button"
+  },
+  "bugs": {
+    "url": "https://github.com/Consensys/connect-wallet-button/issues"
+  },
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w"

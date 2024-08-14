@@ -1,4 +1,4 @@
-declare module "@consensys/connect-wallet-button";
+declare module "@consensys/connect-button";
 
 type ConnectButtonProps = {
   className?: string;

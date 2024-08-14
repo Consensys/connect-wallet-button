@@ -1,0 +1,3 @@
+type ConnectButtonProps = {
+    className?: string;
+  };

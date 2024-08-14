@@ -1,0 +1,1 @@
+### A connect wallet component to be used in our react templates
